@@ -1,0 +1,43 @@
+D:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\bin\Debug\HP- Flushing-300_SCADA.exe.config
+D:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\bin\Debug\HP- Flushing-300_SCADA.exe
+D:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\bin\Debug\HP- Flushing-300_SCADA.pdb
+D:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\bin\Debug\Cognex.DataMan.SDK.PC.dll
+D:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\obj\Debug\HP_Flushing_SCADA.Frmabout.resources
+D:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\obj\Debug\HP_Flushing_SCADA.FrmMain.resources
+D:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\obj\Debug\HP_Flushing_SCADA.Frm_PLCData.resources
+D:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\obj\Debug\HP_Flushing_SCADA.Properties.Resources.resources
+D:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\obj\Debug\HP- Flushing-300_SCADA.csproj.GenerateResource.Cache
+D:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\obj\Debug\HP- Flushing-300_SCADA.exe
+D:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\obj\Debug\HP- Flushing-300_SCADA.pdb
+D:\Sasidharan\HP-Flushing-300\HP-Flushing-300\bin\Debug\HP- Flushing-300_SCADA.exe.config
+D:\Sasidharan\HP-Flushing-300\HP-Flushing-300\obj\Debug\HP- Flushing-300_SCADA.exe
+D:\Sasidharan\HP-Flushing-300\HP-Flushing-300\obj\Debug\HP- Flushing-300_SCADA.pdb
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\bin\Debug\HP- Flushing-300_SCADA.exe.config
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\obj\Debug\HP- Flushing-300_SCADA.exe
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\obj\Debug\HP- Flushing-300_SCADA.pdb
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\bin\Debug\HP- Flushing-300_SCADA.exe
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\bin\Debug\HP- Flushing-300_SCADA.pdb
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\bin\Debug\Cognex.DataMan.SDK.PC.dll
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\obj\Debug\HP- Flushing-300_SCADA.csprojResolveAssemblyReference.cache
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\obj\Debug\HP_Flushing_SCADA.Frmabout.resources
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\obj\Debug\HP_Flushing_SCADA.FrmMain.resources
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\obj\Debug\HP_Flushing_SCADA.Frm_PLCData.resources
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\obj\Debug\HP_Flushing_SCADA.Properties.Resources.resources
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\obj\Debug\HP- Flushing-300_SCADA.csproj.GenerateResource.Cache
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\obj\Debug\HP_Flushing_SCADA.FrmStation2.resources
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\obj\Debug\HP_Flushing_SCADA.FrmStation1.resources
+D:\Sasidharan\HP-Flushing-300 - Copy\HP-Flushing-300\obj\Debug\HP_Flushing_SCADA.MainFrm.resources
+D:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\bin\Debug\HP- Flushing-300_SCADA.exe.config
+D:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\bin\Debug\HP- Flushing-300_SCADA.exe
+D:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\bin\Debug\HP- Flushing-300_SCADA.pdb
+D:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\bin\Debug\Cognex.DataMan.SDK.PC.dll
+D:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\obj\Debug\HP_Flushing_SCADA.Frmabout.resources
+D:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\obj\Debug\HP_Flushing_SCADA.FrmStation1.resources
+D:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\obj\Debug\HP_Flushing_SCADA.FrmStation2.resources
+D:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\obj\Debug\HP_Flushing_SCADA.Frm_PLCData.resources
+D:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\obj\Debug\HP_Flushing_SCADA.MainFrm.resources
+D:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\obj\Debug\HP_Flushing_SCADA.Properties.Resources.resources
+D:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\obj\Debug\HP- Flushing-300_SCADA.csproj.GenerateResource.Cache
+D:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\obj\Debug\HP- Flushing-300_SCADA.exe
+D:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\obj\Debug\HP- Flushing-300_SCADA.pdb
+D:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\obj\Debug\HP- Flushing-300_SCADA.csprojResolveAssemblyReference.cache
