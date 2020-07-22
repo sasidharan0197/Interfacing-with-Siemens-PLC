@@ -85,7 +85,7 @@ public class LibnoDaveClass
             else
                 result = false;
         }
-         catch (Exception e)
+        catch (Exception e)
         {
             send_error_message(e, "CONNECTION PROBLEM");
             result = false;
@@ -665,10 +665,10 @@ public class LibnoDaveClass
     /// <param name="bitNo">Bit address of register that will be read.</param>
     /// <param name="bitValue">Value of register that will be read.</param>
     /// <returns></returns>
-    public bool read_bit_value(AddressType aType, int dbNo, int byteNo, int bitNo)
+    public bool read_bit_value(AddressType aType, int dbNo, int byteNo, int bitNo, out bool bitValue)
     {
         bool result = false;
-       
+        bitValue = false;
         byte[] readByte = new byte[1];
         int readValue = -1;
         int daveInt = (aType == AddressType.Memory) ? libnodave.daveFlags : (aType == AddressType.Input ? libnodave.daveInputs : (aType == AddressType.Output ? libnodave.daveOutputs : libnodave.daveDB));
@@ -679,14 +679,9 @@ public class LibnoDaveClass
             bool always1Check = always_bit_check();
             if (readValue == 0 && always1Check)
             {
-                if (readByte[0] == 1)
-                {
-                    return true;
-                }
-                else
-                {
-                    return false;
-                }
+                if (readByte[0] == 1) bitValue = true;
+                else bitValue = false;
+                result = true;
             }
             else return result;
 
