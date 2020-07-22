@@ -1,0 +1,120 @@
+
+Log Entry : 11:11:57 AM Tuesday, June 23, 2020
+  :
+  :Oracle.DataAccess.Client.OracleException ORA-12899: value too large for column "PPLPSLIVE"."LANCE3_TRACE"."BARCODE" (actual: 51, maximum: 20)    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at HP_Flushing_SCADA.Clsora.ExecuteQuery(String mSPName) in d:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\Clsora.cs:line 152
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Log Entry : 5:09:16 PM Saturday, June 27, 2020
+  :
+  :Oracle.DataAccess.Client.OracleConnectionError
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Log Entry : 5:09:16 PM Saturday, June 27, 2020
+  :
+  :Oracle.DataAccess.Client.OracleException ORA-12571: TNS:packet writer failure    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at HP_Flushing_SCADA.Clsora.GetData(String sPName) in d:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\Clsora.cs:line 83
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Log Entry : 5:11:35 PM Saturday, June 27, 2020
+  :
+  :Oracle.DataAccess.Client.OracleConnectionError
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Log Entry : 5:11:35 PM Saturday, June 27, 2020
+  :
+  :Oracle.DataAccess.Client.OracleException ORA-03114: not connected to ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at HP_Flushing_SCADA.Clsora.GetData(String sPName) in d:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\Clsora.cs:line 83
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Log Entry : 5:14:06 PM Saturday, June 27, 2020
+  :
+  :Oracle.DataAccess.Client.OracleConnectionError
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Log Entry : 5:14:06 PM Saturday, June 27, 2020
+  :
+  :Oracle.DataAccess.Client.OracleException ORA-03114: not connected to ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at HP_Flushing_SCADA.Clsora.GetData(String sPName) in d:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\Clsora.cs:line 83
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Log Entry : 5:15:19 PM Saturday, June 27, 2020
+  :
+  :Oracle.DataAccess.Client.OracleConnectionError
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Log Entry : 5:15:19 PM Saturday, June 27, 2020
+  :
+  :Oracle.DataAccess.Client.OracleException ORA-03114: not connected to ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at HP_Flushing_SCADA.Clsora.GetData(String sPName) in d:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\Clsora.cs:line 83
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Log Entry : 5:16:12 PM Saturday, June 27, 2020
+  :
+  :Oracle.DataAccess.Client.OracleConnectionError
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Log Entry : 5:16:12 PM Saturday, June 27, 2020
+  :
+  :Oracle.DataAccess.Client.OracleException ORA-03114: not connected to ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at HP_Flushing_SCADA.Clsora.GetData(String sPName) in d:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\Clsora.cs:line 83
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Log Entry : 5:16:42 PM Saturday, June 27, 2020
+  :
+  :Oracle.DataAccess.Client.OracleConnectionError
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Log Entry : 5:16:42 PM Saturday, June 27, 2020
+  :
+  :Oracle.DataAccess.Client.OracleException ORA-03114: not connected to ORACLE    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.DataAccess.Client.OracleDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at HP_Flushing_SCADA.Clsora.GetData(String sPName) in d:\Sasidharan\HP-Flushing-300\libnodave_class-master\ConsoleApplicationSample\Clsora.cs:line 83
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Log Entry : 5:54:42 PM Saturday, July 18, 2020
+  :
+  :Oracle.DataAccess.Client.OracleException ORA-00936: missing expression    at Oracle.DataAccess.Client.OracleException.HandleErrorHelper(Int32 errCode, OracleConnection conn, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, String procedure, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleException.HandleError(Int32 errCode, OracleConnection conn, String procedure, IntPtr opsErrCtx, OpoSqlValCtx* pOpoSqlValCtx, Object src, Boolean bCheck)
+   at Oracle.DataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at HP_Flushing_SCADA.Clsora.ExecuteQuery(String mSPName) in d:\Sasidharan\New_Modification\HP-Flushing-300\HP-Flushing-300\Clsora.cs:line 151
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
